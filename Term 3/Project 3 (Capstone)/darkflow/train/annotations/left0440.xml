@@ -1,0 +1,1 @@
+<annotations><filename>left0440.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>Red</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>89</xmin><ymin>578</ymin><xmax>97</xmax><ymax>598</ymax></bndbox></object></annotations>
